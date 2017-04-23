@@ -32,6 +32,6 @@ fidojs/fido-skill-html/fido.js
 	fido.do("html", function() {...});
 ```
 
-Tags are like the "dog tag" of a file or function; the name, address, parent, etc...
+A "tag" is the "dog tag" of a file or function; the name, address, parent, etc...
 
 ![](docson.jpg)
