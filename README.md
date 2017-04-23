@@ -1,5 +1,7 @@
 # FidoJS
 
+Fetches files, sniffs for strings, chews on them, and barks out documentation.
+
 ```js
 // fido can fetch with glob
 
