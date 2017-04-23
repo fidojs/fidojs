@@ -20,13 +20,13 @@ fidojs/fido-skill-js/fido.js
 	fido.can("chew", jsTags);
 	fido.can("html", {dependencies,templates});
 
-// fido can bark out HTML
 // fido can chew HTML tags
-// fido does html
+// fido can bark out HTML
+// fido will do html
 
 fidojs/fido-skill-html/fido.js
-	fido.can("bark", htmlOut);
 	fido.can("chew", htmlTags);
+	fido.can("bark", htmlOut);
 	fido.do("html", function() {...});
 ```
 
