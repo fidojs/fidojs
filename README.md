@@ -29,3 +29,5 @@ fidojs/fido-skill-html/fido.js
 	fido.can("chew", htmlTags);
 	fido.do("html", function() {...});
 ```
+
+A "tag" is like a dog tag for a file...
